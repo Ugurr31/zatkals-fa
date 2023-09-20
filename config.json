@@ -1,0 +1,11 @@
+{
+    "TOKEN": "token",
+    "BASVURU_LOG": "basvuru_log_kanal_id",
+    "BASVURU_ROLE": "basvuru_yetkili_rol_id",
+    "ONERİ_LOG": "oneri_log_kanal_id",
+    "SİKAYET_LOG": "sikayet_log_kanal_id",
+    "MODYT_LOG":"modyetkilicagir_log_kanal_id",
+    "MODYT_YETKİLİ_ROLE": "modyetkilisi_rol_id",
+    "HELPERBS_LOG": "helpersbasvuru_log_kanal_id",
+    "HELPERS_ROLE": "helpersyetkili_rol_id"
+}
